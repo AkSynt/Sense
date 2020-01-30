@@ -1,2 +1,2 @@
-# Sense
-A small implementation that calculates Power consumption of various Sensors
+# Internet Of Things
+Various code implementations about IoT project
