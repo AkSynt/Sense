@@ -1,5 +1,5 @@
-
-# AM429
+# 2019 - IoT
+# Sensor - Power Consumtpion Calculator
 
 
 class Sensor:
