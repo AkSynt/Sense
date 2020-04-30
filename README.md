@@ -1,2 +1,4 @@
-# Internet Of Things
-Various code implementations about IoT project
+# Internet Of Things - Sense
+
+Power consumption Calculator of various types of Sensors used in the IoT.
+
